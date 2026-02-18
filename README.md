@@ -1,2 +1,46 @@
 # 4-dimensional-graphing-project
 As a high schooler I challenged myself to create a 4-dimensional graphing system using no literature.
+
+In grade 11, my math teacher just introduced the idea of graphing in 3-D, I had a pretty hard time wrapping my head around the intricacies of how that transition from 2-D to 3-D worked so I decided that I
+  would try to create a 4-D graphing system myself using my own logic, reasoning and ingenuity to try and develop more of an understanding about the transfer from 2-D graphing to 3-D graphing.
+
+The challenge I set for myself was to not use any literature discussing or using 4-D graphing techniques, and solely work off of my own assumptions and finding ways to improve on my theory. At first
+  this was very difficult because I had no experiance in such an undertaking at a young age, However through trial and error of developing assumptions about behaviours of geometry and spending many
+  nights trying to disprove my own theories to myself, I managed to reliably create a method of imagining what a potential of a 4-D system could look like.
+
+However when I went to my friends to ask them what they thought, they found it really hard to visualize. I can't remember exactly how I told them it worked but I was imagining was basically a 3-D movement 
+in a 3-D space, with arbitrary points drawn on specific points of the moving body, for example the elbow or knee. Then take screen shots of the movement as it happens, and using time as your 
+  fourth dimension you can plot the movement of time as its own equation. 
+
+This seems relatively simple now that I'm reflecting on it and you may think so as well, however this was a process that took me about 9 months all together and I came to this conclusion using a moving 
+  chalkboard, and the mind of someone who had never seen or used a vector, or heard of or performed an integral or differential. To me it felt like I was reinventing the wheel. The photos in this
+  repository are of the chalkboard on the third day of my attempts to take the 3rd dimension into the 4th where I was using the greek letter "phi" as a substitute for the direction in the 4th dimension.
+  funny enough this was because I was stubbornly rejecting the idea that there was any possibiliy that the fourth dimension could have been time, and I was desperately trying to prove it. At this time
+  in school my friends started to make fun of me because they thought that I was trying to disprove Einstein's theory of relativity becauase he defines the fourth dimension as time. Because of this one 
+  friend realised that Einstein disprooved James Clerk Maxwell, and his "Maxwell equations" and realised that I shared the same last name as Maxwell, so I became know as the guy who "Had a family grudge
+  against Einstein".
+
+This is all to say that everyone I knew knew what I was trying to do, partialy because of the jokes about Einstein, but mostly because I spent almost every waking moment on this theory of mine.
+
+Eventually I came the above conclusion where I basically added another vector to 3-D vectors without knowing it, However when I tried to explain to my friends how it worked and what limitations I had to
+  figure out, they just couldn't understand. I figured that this was probably due to my inability to explain rather than their inability to understand, so I decided that my next goal would be to try and 
+  learn how to teach and explain something like that to someone who didn't have much math knowledge.
+
+To do this I began talking to as many people as I could about this idea, my mom, my friends, my grandpa who got his P.hD. in chaos theory and taught statistics at Trent University for untill retirement. 
+  As I was talking to these people my goal was to twofold, to try and explain things in a way so that they would understand what I'm trying to get across and simultaneously try and learn better ways to
+  do that.
+
+After about 2 months of this, I tried staying late at school and trying to explain the whole thing to my english teacher who had essentially no knowledge about the specifics of what I was doing, and was
+  able to explain it to her enough that she felt pretty confident that she understood it. Now that I had satisfied my desire to be able to explain fairly complex scientific ideas to a fairly unknowlegable
+  group of people I became rather enthralled by some inconsistancy I saw that kept popping up while I was working on my idea.
+
+The thing that perplexed me was the issue that I kept generating infinities whenever I moved an object from one dimension to another, for example if you take the equation for a line, x=1 and draw it on a 
+1 dimensional numberline it is a point, however I found that if you moved the same point into cartesian coordinates, and draw the equation x=1. You get a line with infinite length because y isn't defined
+in this equation. Not knowing how integration and deifferentiation was, my younger mind couldn't explain this phenomenon no matter how hard I tried, I stayed up until 4 am for about a week and a half 
+because I couldn't explain why this infinite line showed up instead of say a point where all possibilities collaspsed into 0 becuase we had no information on it. 
+
+After about a month and a half of debating this to myself and eventually asking my grandpa for help to point me in the right direction, still to no avail. I gave up on the idea of a full fledged graphing 
+system after 9 months of work and simply looked up the answer threw me into another 2 and a half years of learning calculus until I got my answer in the form of an integration constant.
+
+While all of this didn't really amount to much that I can show you as a notebook (my mom got me a whiteboard that I used), or any tangible equations. The impact that it had on my life was monumental in 
+shaping the way I think, problem solve and aproach life as a whole, and I genuinely think that exploring an idea like that should be an experiance that every high schooler should get to experiance.
